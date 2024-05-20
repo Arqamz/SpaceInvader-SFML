@@ -1,0 +1,8 @@
+samahir 10080
+samahir 10000
+samahir 50000
+samahir 24000
+arqam 20120
+arqam 10203
+arqam 02042
+arqam 00000
